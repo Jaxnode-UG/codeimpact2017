@@ -1,0 +1,9 @@
+{
+  "name": "codeimpact2017",
+  "version": "1.0.0",
+  "description": "\"Sample for Codeimpact 2017\"",
+  "main": "index.js",
+  "repository": "https://github.com/jaxnode/codeimpact2017.git",
+  "author": "David Fekke <david@fekke.com>",
+  "license": "Apache-2.0"
+}
